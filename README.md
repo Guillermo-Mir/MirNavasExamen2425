@@ -1,4 +1,5 @@
 ##Instruccions
+
 **1. Configuració inicial**
 
 1.Comprova la versió instal·lada de Git, fes captura del terminal.
