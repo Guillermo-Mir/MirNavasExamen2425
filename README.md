@@ -2,6 +2,7 @@
 **1. Configuració inicial**
 
 1.Comprova la versió instal·lada de Git, fes captura del terminal.
+
 ![ex1](./img/ex1_1.png)
 
 2.Configura Git al teu sistema (opcional)
