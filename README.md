@@ -21,6 +21,7 @@
 ![ex1](./img/ex1_5.2.png)
 
 **2. Creació del projecte web**
+
 1.Crea els fitxers següents al directori del projecte:
 
 	index.html
@@ -37,6 +38,7 @@
 ![ex2](./img/ex2_2.4.png)
 
 **3. Gestió amb Git**
+
 1.Afegir fitxers:
 Utilitza un patró d'expressió regular per afegir tots els fitxers .html i .css. Fes captura del terminal
 
