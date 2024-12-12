@@ -44,5 +44,13 @@ Utilitza un patró d'expressió regular per afegir tots els fitxers .html i .css
 Explica dins del fitxer el propòsit del projecte.
  **Resposta:EL proposits del projecte és comprobar si em adquirit el coneixement basic sobre les comandes de git i markdown**
 3.Afegeix i fes commit dels canvis a la branca documentacio. El missatge del commit ha de ser "3 - README.md amb documentació inicial"
-
+![ex4](./img/ex4_3.png)
 4.Torna a la branca principal (main) i fes un merge
+![ex4](./img/ex4_4.png)
+5. Remot i publicació
+1.Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser Cognom1Cognom2Examen2425. Fes captura al terminal de com has configurat el repositori remot.
+![ex5](./img/ex5_1.png)
+![ex5](./img/ex5_1.1.png)
+2.Puja els canvis al remot desde terminal.Fes captura al terminal.
+![ex5](./img/ex5_2.png)
+3.Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.
