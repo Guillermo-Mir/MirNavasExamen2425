@@ -54,3 +54,4 @@ Explica dins del fitxer el propòsit del projecte.
 2.Puja els canvis al remot desde terminal.Fes captura al terminal.
 ![ex5](./img/ex5_2.png)
 3.Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.
+https://mirnavasexamen2425.vercel.app/
